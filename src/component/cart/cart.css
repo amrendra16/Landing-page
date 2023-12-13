@@ -1,0 +1,13 @@
+
+
+.cart-1{
+    box-shadow: 12px 12px 13px 0px rgba(11,10,10,0.77);
+-webkit-box-shadow: 12px 12px 13px 0px rgba(11,10,10,0.77);
+-moz-box-shadow: 12px 12px 13px 0px rgba(11,10,10,0.77);
+
+}
+/* .cart-1:hover{
+    background-color: red;
+    color: black;
+    font-weight: bold;
+} */
